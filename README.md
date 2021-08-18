@@ -9,4 +9,6 @@ In this project, I learned about dynamic casting. I found that this is a powerfu
 the amount of code needed when writing the client program in the main.cpp file. Dynamic casting is a tool that I think 
 I will use more and more of.
 
+This program data structure is double linked list.
+
 This is a really fun project that lets me learn alot about Object Oriented Programming and how to design a simple game.
